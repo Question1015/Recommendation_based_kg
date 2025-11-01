@@ -1,0 +1,101 @@
+artist_id,artist_name,genres
+1,Artist 1,"['Genre 5', 'Genre 8']"
+2,Artist 2,['Genre 5']
+3,Artist 3,"['Genre 2', 'Genre 9']"
+4,Artist 4,"['Genre 8', 'Genre 7']"
+5,Artist 5,"['Genre 7', 'Genre 3']"
+6,Artist 6,"['Genre 4', 'Genre 8', 'Genre 7']"
+7,Artist 7,"['Genre 4', 'Genre 6', 'Genre 2']"
+8,Artist 8,"['Genre 5', 'Genre 7']"
+9,Artist 9,['Genre 8']
+10,Artist 10,"['Genre 1', 'Genre 5']"
+11,Artist 11,"['Genre 2', 'Genre 6', 'Genre 9']"
+12,Artist 12,"['Genre 1', 'Genre 4']"
+13,Artist 13,['Genre 2']
+14,Artist 14,['Genre 7']
+15,Artist 15,"['Genre 7', 'Genre 2']"
+16,Artist 16,['Genre 7']
+17,Artist 17,['Genre 3']
+18,Artist 18,"['Genre 9', 'Genre 6', 'Genre 6']"
+19,Artist 19,['Genre 2']
+20,Artist 20,"['Genre 2', 'Genre 1', 'Genre 7']"
+21,Artist 21,"['Genre 10', 'Genre 9']"
+22,Artist 22,['Genre 9']
+23,Artist 23,['Genre 8']
+24,Artist 24,"['Genre 3', 'Genre 7', 'Genre 6']"
+25,Artist 25,['Genre 7']
+26,Artist 26,"['Genre 7', 'Genre 1']"
+27,Artist 27,"['Genre 3', 'Genre 4', 'Genre 5']"
+28,Artist 28,"['Genre 8', 'Genre 4']"
+29,Artist 29,"['Genre 9', 'Genre 3']"
+30,Artist 30,"['Genre 10', 'Genre 9', 'Genre 9']"
+31,Artist 31,['Genre 7']
+32,Artist 32,"['Genre 7', 'Genre 1']"
+33,Artist 33,"['Genre 1', 'Genre 4']"
+34,Artist 34,['Genre 1']
+35,Artist 35,['Genre 4']
+36,Artist 36,"['Genre 5', 'Genre 2', 'Genre 3']"
+37,Artist 37,"['Genre 5', 'Genre 10']"
+38,Artist 38,"['Genre 7', 'Genre 4', 'Genre 5']"
+39,Artist 39,"['Genre 6', 'Genre 1', 'Genre 10']"
+40,Artist 40,['Genre 5']
+41,Artist 41,"['Genre 5', 'Genre 3', 'Genre 7']"
+42,Artist 42,"['Genre 3', 'Genre 5', 'Genre 7']"
+43,Artist 43,"['Genre 5', 'Genre 9', 'Genre 1']"
+44,Artist 44,['Genre 5']
+45,Artist 45,"['Genre 7', 'Genre 3', 'Genre 6']"
+46,Artist 46,"['Genre 5', 'Genre 8', 'Genre 7']"
+47,Artist 47,"['Genre 6', 'Genre 5', 'Genre 2']"
+48,Artist 48,"['Genre 2', 'Genre 9', 'Genre 1']"
+49,Artist 49,"['Genre 4', 'Genre 3', 'Genre 1']"
+50,Artist 50,"['Genre 9', 'Genre 8', 'Genre 1']"
+51,Artist 51,"['Genre 2', 'Genre 7']"
+52,Artist 52,"['Genre 2', 'Genre 10']"
+53,Artist 53,['Genre 5']
+54,Artist 54,['Genre 9']
+55,Artist 55,['Genre 8']
+56,Artist 56,"['Genre 10', 'Genre 1']"
+57,Artist 57,['Genre 1']
+58,Artist 58,"['Genre 6', 'Genre 4', 'Genre 3']"
+59,Artist 59,['Genre 2']
+60,Artist 60,"['Genre 8', 'Genre 6']"
+61,Artist 61,"['Genre 9', 'Genre 10']"
+62,Artist 62,"['Genre 10', 'Genre 8', 'Genre 3']"
+63,Artist 63,"['Genre 5', 'Genre 4', 'Genre 3']"
+64,Artist 64,['Genre 3']
+65,Artist 65,"['Genre 6', 'Genre 10']"
+66,Artist 66,"['Genre 5', 'Genre 8', 'Genre 2']"
+67,Artist 67,['Genre 4']
+68,Artist 68,"['Genre 9', 'Genre 4']"
+69,Artist 69,"['Genre 9', 'Genre 3']"
+70,Artist 70,['Genre 5']
+71,Artist 71,"['Genre 1', 'Genre 2']"
+72,Artist 72,"['Genre 7', 'Genre 4']"
+73,Artist 73,"['Genre 9', 'Genre 9', 'Genre 1']"
+74,Artist 74,"['Genre 2', 'Genre 4']"
+75,Artist 75,['Genre 9']
+76,Artist 76,"['Genre 2', 'Genre 2']"
+77,Artist 77,"['Genre 4', 'Genre 1']"
+78,Artist 78,"['Genre 7', 'Genre 7']"
+79,Artist 79,"['Genre 10', 'Genre 4', 'Genre 3']"
+80,Artist 80,"['Genre 6', 'Genre 2']"
+81,Artist 81,['Genre 4']
+82,Artist 82,"['Genre 8', 'Genre 1']"
+83,Artist 83,['Genre 3']
+84,Artist 84,"['Genre 4', 'Genre 6', 'Genre 5']"
+85,Artist 85,"['Genre 8', 'Genre 9', 'Genre 5']"
+86,Artist 86,"['Genre 3', 'Genre 10', 'Genre 1']"
+87,Artist 87,['Genre 1']
+88,Artist 88,"['Genre 9', 'Genre 8']"
+89,Artist 89,['Genre 10']
+90,Artist 90,"['Genre 8', 'Genre 2']"
+91,Artist 91,['Genre 9']
+92,Artist 92,['Genre 6']
+93,Artist 93,['Genre 6']
+94,Artist 94,"['Genre 8', 'Genre 10']"
+95,Artist 95,['Genre 5']
+96,Artist 96,"['Genre 9', 'Genre 1']"
+97,Artist 97,"['Genre 3', 'Genre 4', 'Genre 1']"
+98,Artist 98,"['Genre 10', 'Genre 10']"
+99,Artist 99,['Genre 6']
+100,Artist 100,['Genre 7']
